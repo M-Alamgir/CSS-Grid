@@ -1,0 +1,22 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "CSS3 Grid System. ## Live Demo Checkout live demo here: ### Technologies HTML 5<br/> CSS (intermediate to Advanced)<br/> Sass<br/> NPM (node package manager)<br/> live-server<br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ourandco/CSS-Grid.git"
+  },
+  "author": "Alamgir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ourandco/CSS-Grid/issues"
+  },
+  "homepage": "https://github.com/ourandco/CSS-Grid#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
