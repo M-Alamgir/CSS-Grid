@@ -4,7 +4,7 @@
   "description": "CSS3 Grid System. ## Live Demo Checkout live demo here: ### Technologies HTML 5<br/> CSS (intermediate to Advanced)<br/> Sass<br/> NPM (node package manager)<br/> live-server<br/>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
