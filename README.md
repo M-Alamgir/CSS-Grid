@@ -11,6 +11,10 @@ live-server<br/>
 
 ### Resources
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
 #### BEM METHADOLOGY.
 #### Author
 :bust_in_silhouette: M. Alamgir
